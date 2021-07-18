@@ -2,7 +2,7 @@
   "name": "javascript-pack",
   "displayName": "JavaScript Pack",
   "description": "JavaScript Pack is an extension pack based on the most helpful extensions for JavaScript.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "olga-f",
   "engines": {
     "vscode": "^1.58.0"
