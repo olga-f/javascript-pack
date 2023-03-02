@@ -1,6 +1,5 @@
 # JavaScript Extension Pack for Visual Studio Code
 
-[![Marketplace Version](https://vsmarketplacebadge.apphb.com/version/olga-f.javascript-pack.svg)](https://marketplace.visualstudio.com/items?itemName=olga-f.javascript-pack) [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/olga-f.javascript-pack.svg)](https://marketplace.visualstudio.com/items?itemName=olga-f.javascript-pack) [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/olga-f.javascript-pack.svg)](https://marketplace.visualstudio.com/items?itemName=olga-f.javascript-pack) ![Rating](https://vsmarketplacebadge.apphb.com/rating-star/olga-f.javascript-pack.svg)
 
 <br/>
 
@@ -13,6 +12,10 @@ _The pack includes:_
 > <img src="https://kisstkondoros.gallerycdn.vsassets.io/extensions/kisstkondoros/vscode-codemetrics/1.24.0/1581861683608/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="40" /> &nbsp; **Code Metrics** - Computes complexity in TypeScript / JavaScript files.
 
 > <img src="https://wix.gallerycdn.vsassets.io/extensions/wix/vscode-import-cost/2.15.0/1612118656126/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="40" /> &nbsp; **Import Cost** - Display inline in the editor the size of the imported package.
+
+> <img src="https://sonarsource.gallerycdn.vsassets.io/extensions/sonarsource/sonarlint-vscode/3.15.1/1677771348769/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="40" /> &nbsp; **SonarLint** - SonarLint is an IDE extension that helps you detect and fix quality issues as you write.
+
+> <img src="https://streetsidesoftware.gallerycdn.vsassets.io/extensions/streetsidesoftware/code-spell-checker/2.18.0/1677483948878/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="40" /> &nbsp; **Code Spell Checker** - Spelling checker for source code.
 
 > <img src="https://capaj.gallerycdn.vsassets.io/extensions/capaj/vscode-exports-autocomplete/0.5.4/1510705860977/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="40" /> &nbsp; **Exports Autocomplete** - Autocompletes javascript module exports from your project.
 
@@ -30,7 +33,6 @@ _The pack includes:_
 
 > <img src="https://kisstkondoros.gallerycdn.vsassets.io/extensions/kisstkondoros/vscode-gutter-preview/0.27.1/1615330715157/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="40" /> &nbsp; **Image preview** - Shows image preview in the gutter and on hover.
 
-> <img src="https://miclo.gallerycdn.vsassets.io/extensions/miclo/sort-typescript-imports/1.4.1/1512576539546/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="40" /> &nbsp; **Sort Typescript Imports** - Sort import statements in Typescript code.
 
 > <img src="https://olga-f.gallerycdn.vsassets.io/extensions/olga-f/light-color-theme/0.1.5/1623687253446/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="40" /> &nbsp; **Light Color Theme** - Improve your code readability and syntax highlighting and get a better developer experience when working with testing tools.
 

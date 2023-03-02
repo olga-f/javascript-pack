@@ -2,7 +2,7 @@
   "name": "javascript-pack",
   "displayName": "JavaScript Pack",
   "description": "JavaScript Pack is an extension pack based on the most helpful extensions for JavaScript.",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "publisher": "olga-f",
   "engines": {
     "vscode": "^1.58.0"
@@ -14,13 +14,14 @@
   "extensionPack": [
     "capaj.vscode-exports-autocomplete",
     "christian-kohler.npm-intellisense",
+    "SonarSource.sonarlint-vscode",
+    "streetsidesoftware.code-spell-checker",
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
     "formulahendry.code-runner",
     "gottfired.css2react",
     "kisstkondoros.vscode-codemetrics",
     "kisstkondoros.vscode-gutter-preview",
-    "miclo.sort-typescript-imports",
     "olga-f.light-color-theme",
     "PKief.material-icon-theme",
     "TabNine.tabnine-vscode",
@@ -41,7 +42,8 @@
     "code",
     "javascript",
     "pack",
-    "pack"
+    "typescript",
+    "react"
   ],
   "scripts": {
     "deploy": "vsce publish",
@@ -54,6 +56,6 @@
   },
   "homepage": "https://github.com/olga-f/javascript-pack#readme",
   "devDependencies": {
-    "vsce": "^1.95.1"
+    "@vscode/vsce": "^2.18.0"
   }
 }
