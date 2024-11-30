@@ -34,7 +34,7 @@ _The pack includes:_
 > <img src="https://kisstkondoros.gallerycdn.vsassets.io/extensions/kisstkondoros/vscode-gutter-preview/0.27.1/1615330715157/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="40" /> &nbsp; **Image preview** - Shows image preview in the gutter and on hover.
 
 
-> <img src="https://olga-f.gallerycdn.vsassets.io/extensions/olga-f/light-color-theme/0.1.5/1623687253446/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="40" /> &nbsp; **Light Color Theme** - Improve your code readability and syntax highlighting and get a better developer experience when working with testing tools.
+> <img src="https://olga-f.gallerycdn.vsassets.io/extensions/olga-f/light-color-theme/0.1.5/1623687253446/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="40" /> &nbsp; **Colorful Light Theme with Dark Terminal** - A light theme with colorful syntax highlighting, paired with a dark terminal for an enhanced coding experience in VS Code.
 
 > <img src="https://pkief.gallerycdn.vsassets.io/extensions/pkief/material-icon-theme/4.8.0/1625388449111/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="40" /> &nbsp; **Material Icon Theme** - Icons for Visual Studio Code.
 
