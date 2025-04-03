@@ -2,7 +2,7 @@
   "name": "javascript-pack",
   "displayName": "JavaScript Pack",
   "description": "JavaScript Pack is a collection of essential extensions designed to boost your JavaScript development workflow. It includes the most useful tools for coding, debugging, and enhancing your JavaScript experience in Visual Studio Code.",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "publisher": "olga-f",
   "engines": {
     "vscode": "^1.8.0"
@@ -66,6 +66,6 @@
   },
   "homepage": "https://github.com/olga-f/javascript-pack#readme",
   "devDependencies": {
-    "@vscode/vsce": "^3.2.1"
+    "@vscode/vsce": "^3.3.2"
   }
 }
