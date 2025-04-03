@@ -2,7 +2,7 @@
   "name": "javascript-pack",
   "displayName": "JavaScript Pack",
   "description": "JavaScript Pack is a collection of essential extensions designed to boost your JavaScript development workflow. It includes the most useful tools for coding, debugging, and enhancing your JavaScript experience in Visual Studio Code.",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "publisher": "olga-f",
   "engines": {
     "vscode": "^1.8.0"
@@ -18,15 +18,15 @@
     "streetsidesoftware.code-spell-checker",
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
-    "formulahendry.code-runner",
     "gottfired.css2react",
     "kisstkondoros.vscode-codemetrics",
     "kisstkondoros.vscode-gutter-preview",
     "olga-f.light-color-theme",
     "PKief.material-icon-theme",
-    "TabNine.tabnine-vscode",
-    "tombonnike.vscode-status-bar-format-toggle",
-    "wix.vscode-import-cost"
+    "wix.vscode-import-cost",
+    "clinyong.vscode-css-modules",
+    "naumovs.color-highlight",
+    "pflannery.vscode-versionlens"
   ],
   "repository": {
     "type": "git",
@@ -52,7 +52,8 @@
     "developer productivity",
     "debugging",
     "syntax highlighting",
-    "web development"
+    "web development",
+    "frontend"
   ],
   "scripts": {
     "deploy": "vsce publish",
